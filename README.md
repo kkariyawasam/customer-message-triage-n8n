@@ -96,3 +96,8 @@ OpenAI is configured with a strict JSON Schema requiring the five fields and all
 - Add an “Edit draft” option in Slack so reviewers can revise the reply before approval, with the revised draft and editor recorded in the log.
 - Use approved company documentation to draft warranty and return responses, giving reviewers the relevant policy reference and flagging cases where the policy is missing or unclear.
 - Expand test coverage such as Slack failures.
+
+  ## Workflow
+
+  <img width="893" height="205" alt="image" src="https://github.com/user-attachments/assets/65de1a1f-8e79-4fec-9e8e-0d2d725c54c2" />
+
