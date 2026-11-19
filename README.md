@@ -101,3 +101,8 @@ OpenAI is configured with a strict JSON Schema requiring the five fields and all
 
   <img width="893" height="205" alt="image" src="https://github.com/user-attachments/assets/65de1a1f-8e79-4fec-9e8e-0d2d725c54c2" />
 
+
+## Slack output
+
+<img width="658" height="207" alt="image" src="https://github.com/user-attachments/assets/78656586-62ac-41a3-9bf8-7b7ab2a91694" />
+
